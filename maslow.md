@@ -15,7 +15,7 @@ text color white "safety" with .c at textpad above previous.s
 line invisible from P.n go 4cm heading 150 then 4cm west close \
    solid fill yellow
 line thin color white from previous.sw to previous.se
-text color black "love & belonging" with .c at textpad above previous.s
+text color black "love &amp; belonging" with .c at textpad above previous.s
 
 line invisible from P.n go 3cm heading 150 then 3cm west close \
    solid fill green

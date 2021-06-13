@@ -6,7 +6,7 @@
 <text x="172" y="230" text-anchor="middle" fill="rgb(255,255,255)" dominant-baseline="central">safety</text>
 <path d="M172,2L285,198L58,198Z"  style="fill:rgb(255,255,0);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
 <path d="M58,198L285,198"  style="fill:none;stroke-width:1.4472;stroke:rgb(255,255,255);" />
-<text x="172" y="181" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">love & belonging</text>
+<text x="172" y="181" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">love &amp; belonging</text>
 <path d="M172,2L257,149L87,149Z"  style="fill:rgb(0,128,0);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
 <path d="M87,149L257,149"  style="fill:none;stroke-width:1.4472;stroke:rgb(255,255,255);" />
 <text x="172" y="132" text-anchor="middle" fill="rgb(255,255,255)" dominant-baseline="central">esteem</text>
