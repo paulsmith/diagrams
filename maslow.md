@@ -1,31 +1,21 @@
 ``` pikchr
 sidelen = 6cm
-numlayer = 5
-textpad = 0.3cm
+textpad = 0.4cm
 color = white
 
-P: line go sidelen heading 90 then sidelen heading 330 close \
-   solid fill 0xD92500
-   text "physiological" with .c at textpad above P.s
+define @layer {
+  line invisible from P.n go $1 heading 150 then $1 west close \
+    solid fill $2
+  line thin from previous.sw to previous.se
+  text $3 small with .c at textpad above previous.s
+}
 
-line invisible from P.n go 5cm heading 150 then 5cm west close \
-   solid fill 0x6A0C91
-line thin from previous.sw to previous.se
-text "safety" with .c at textpad above previous.s
+P: line go sidelen heading 90 then sidelen heading 330 close
 
-line invisible from P.n go 4cm heading 150 then 4cm west close \
-   solid fill 0xFF9F05
-line thin from previous.sw to previous.se
-text "love &amp; belonging" with .c at textpad above previous.s
-
-line invisible from P.n go 3cm heading 150 then 3cm west close \
-   solid fill 0x7AA61B
-line thin from previous.sw to previous.se
-text "esteem" with .c at textpad above previous.s
-
-line invisible from P.n go 2cm heading 150 then 2cm west close \
-   solid fill 0x4A79ED
-line thin from previous.sw to previous.se
-text "actualization" small with .c at textpad above previous.s
-text same "self-" small with .c at 0.3cm above previous.c
+@layer(6cm, 0xD92500, "physiological")
+@layer(5cm, 0x6A0C91, "safety")
+@layer(4cm, 0xFF9F05, "love &amp; belonging")
+@layer(3cm, 0x7AA61B, "esteem")
+@layer(2cm, 0x4A79ED, "actualization")
+text "self-" small with .c at textpad above previous.c
 ```
