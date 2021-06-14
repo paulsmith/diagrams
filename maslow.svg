@@ -1,16 +1,16 @@
 <svg xmlns='http://www.w3.org/2000/svg' class="pikchr" viewBox="0 0 344.477 298.905">
-<path d="M2,296L342,296L172,2Z"  style="fill:rgb(255,0,0);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<path d="M2,296L342,296L172,2Z"  style="fill:rgb(217,37,0);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(255,255,255);" />
 <text x="172" y="279" text-anchor="middle" fill="rgb(255,255,255)" dominant-baseline="central">physiological</text>
-<path d="M172,2L313,247L30,247Z"  style="fill:rgb(255,165,0);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<path d="M172,2L313,247L30,247Z"  style="fill:rgb(106,12,145);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(255,255,255);" />
 <path d="M30,247L313,247"  style="fill:none;stroke-width:1.4472;stroke:rgb(255,255,255);" />
 <text x="172" y="230" text-anchor="middle" fill="rgb(255,255,255)" dominant-baseline="central">safety</text>
-<path d="M172,2L285,198L58,198Z"  style="fill:rgb(255,255,0);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<path d="M172,2L285,198L58,198Z"  style="fill:rgb(255,159,5);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(255,255,255);" />
 <path d="M58,198L285,198"  style="fill:none;stroke-width:1.4472;stroke:rgb(255,255,255);" />
-<text x="172" y="181" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">love &amp; belonging</text>
-<path d="M172,2L257,149L87,149Z"  style="fill:rgb(0,128,0);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<text x="172" y="181" text-anchor="middle" fill="rgb(255,255,255)" dominant-baseline="central">love &amp; belonging</text>
+<path d="M172,2L257,149L87,149Z"  style="fill:rgb(122,166,27);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(255,255,255);" />
 <path d="M87,149L257,149"  style="fill:none;stroke-width:1.4472;stroke:rgb(255,255,255);" />
 <text x="172" y="132" text-anchor="middle" fill="rgb(255,255,255)" dominant-baseline="central">esteem</text>
-<path d="M172,2L228,100L115,100Z"  style="fill:rgb(0,0,255);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<path d="M172,2L228,100L115,100Z"  style="fill:rgb(74,121,237);stroke-width:2.16;stroke-linejoin:round;stroke:rgb(255,255,255);" />
 <path d="M115,100L228,100"  style="fill:none;stroke-width:1.4472;stroke:rgb(255,255,255);" />
 <text x="172" y="83" text-anchor="middle" fill="rgb(255,255,255)" font-size="80%" dominant-baseline="central">actualization</text>
 <text x="172" y="66" text-anchor="middle" fill="rgb(255,255,255)" font-size="80%" dominant-baseline="central">self-</text>
